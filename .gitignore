@@ -1,0 +1,4 @@
+#request.log
+#demo.log
+*.log
+/abc
